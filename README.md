@@ -104,6 +104,7 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 /ecommerce-sql-analysis
 │
 ├── 📁 Data SQL (Queries desenvolvidas)
+├── 📁 Evidências (Registros do Banco)
 └── README.md
 
 
