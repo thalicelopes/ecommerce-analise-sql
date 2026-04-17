@@ -69,7 +69,7 @@ O churn foi definido como clientes sem compras há mais de 60 dias, permitindo i
 ## Análise de Cohort
 Clientes foram agrupados pelo mês da primeira compra para analisar a retenção ao longo do tempo.
 
-Essa análise mostra como o comportamento dos clientes evolui após a aquisição.
+Essa análise mostra como o comportamento dos clientes evolui após a aquisição. 
 
 
 ## Principais Insights
@@ -77,7 +77,7 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 - Uma pequena parte dos clientes concentra grande parte da receita (padrão 80/20)
 - A retenção de clientes cai significativamente após a primeira compra
 - O churn indica uma quantidade relevante de clientes inativos
-- Existem diferenças claras de comportamento entre cohorts de aquisição
+- A análise de cohort revelou uma queda significativa na retenção após o primeiro mês, indicando que a maior parte dos clientes realiza poucas compras recorrentes.
 
 
 ## Recomendações de Negócio
