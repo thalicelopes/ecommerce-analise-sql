@@ -1,12 +1,10 @@
-#### Análise de E-commerce com SQL
+# Análise de E-commerce com SQL
 
 ## Visão Geral
 
 Este projeto realiza uma análise completa de um banco de dados de e-commerce utilizando SQL, com foco em vendas, comportamento de clientes e retenção.
 
 O objetivo é transformar dados transacionais em insights de negócio que apoiem decisões estratégicas em marketing, produto e gestão.
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Objetivo do Projeto
 
@@ -17,7 +15,6 @@ Analisar um e-commerce fictício com dados mockados para identificar oportunidad
 - Entendimento do comportamento dos clientes
 - Otimização de produtos
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Estrutura do Banco de Dados
 
@@ -30,7 +27,6 @@ O projeto utiliza um modelo relacional composto pelas seguintes tabelas:
 
 Essa estrutura segue um modelo normalizado adequado para análises SQL.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Principais Métricas (KPIs)
 
@@ -51,36 +47,30 @@ Essa estrutura segue um modelo normalizado adequado para análises SQL.
 - Receita por produto
 - Produtos com melhor performance
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Principais Análises Realizadas
 
 ## Análise de Receita
 A receita total foi calculada com base nos itens vendidos, permitindo uma visão precisa do faturamento do e-commerce.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Análise de Valor do Cliente (LTV)
 O LTV foi calculado somando o valor total gasto por cada cliente ao longo do tempo, identificando clientes mais valiosos.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Análise de Comportamento de Compra
 Foi analisada a frequência de compras por cliente, permitindo entender padrões de recorrência.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Análise de Churn
 O churn foi definido como clientes sem compras há mais de 60 dias, permitindo identificar clientes inativos e em risco de perda.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Análise de Cohort
 Clientes foram agrupados pelo mês da primeira compra para analisar a retenção ao longo do tempo.
 
 Essa análise mostra como o comportamento dos clientes evolui após a aquisição.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Principais Insights
 
@@ -89,7 +79,6 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 - O churn indica uma quantidade relevante de clientes inativos
 - Existem diferenças claras de comportamento entre cohorts de aquisição
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Recomendações de Negócio
 
@@ -98,7 +87,6 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 - Identificar produtos que incentivam recompra e fidelização
 - Priorizar clientes de alto valor (alto LTV)
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tecnologias Utilizadas
 
@@ -109,7 +97,6 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 - Window Functions
 - Funções de data
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📁 Estrutura do Projeto
 
@@ -122,8 +109,6 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 └── README.md
 
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Resumo Executivo
 
 A análise revelou padrões claros de comportamento dos clientes, destacando uma forte concentração de receita em uma pequena base de usuários e uma queda significativa na retenção após a primeira compra.
@@ -132,7 +117,7 @@ O estudo de churn identificou clientes inativos há mais de 60 dias, enquanto a 
 
 Esses resultados reforçam a importância de estratégias de retenção, especialmente nos primeiros ciclos de compra.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Principais Impactos do Projeto
 
@@ -143,7 +128,6 @@ Monitoramento de perda de clientes (churn)
 Avaliação de retenção por período (cohort)
 Apoio à criação de estratégias de marketing e fidelização
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Destaques Técnicos:
 
@@ -152,7 +136,6 @@ Implementação de análise de churn baseada em regra de inatividade (60 dias)
 Construção de cohort analysis para retenção de clientes
 Modelagem de dados relacional aplicada a cenário de e-commerce
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Conclusão
 
