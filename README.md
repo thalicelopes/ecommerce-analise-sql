@@ -124,9 +124,9 @@ Esses resultados reforçam a importância de estratégias de retenção, especia
 
 Este projeto demonstra como dados transacionais podem ser transformados em decisões de negócio, permitindo:
 
-Identificação de clientes de alto valor (LTV)
-Monitoramento de perda de clientes (churn)
-Avaliação de retenção por período (cohort)
+Identificação de clientes de alto valor (LTV), 
+Monitoramento de perda de clientes (churn),
+Avaliação de retenção por período (cohort) e 
 Apoio à criação de estratégias de marketing e fidelização
 
 
