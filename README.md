@@ -101,11 +101,13 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 ## 📁 Estrutura do Projeto
 
 
+```text
 /ecommerce-sql-analysis
 │
-├── data-sql/        📁 Queries desenvolvidas
-├── evidencias/      📁 Registros do banco
+├── 📁 Data SQL (Queries desenvolvidas)
+├── 📁 Evidências (Registros do Banco)
 └── README.md
+```
 
 
 ## Resumo Executivo
