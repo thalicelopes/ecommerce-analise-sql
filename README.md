@@ -103,9 +103,7 @@ Essa análise mostra como o comportamento dos clientes evolui após a aquisiçã
 
 /ecommerce-sql-analysis
 │
-├── data/ # Scripts de criação e geração de dados
-├── queries/ # Consultas SQL utilizadas na análise
-├── insights/ # Interpretação dos resultados
+├── Data SQL (Queries desenvolvidas)
 └── README.md
 
 
