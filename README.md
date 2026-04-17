@@ -1,6 +1,6 @@
-# 📊 Análise de E-commerce com SQL
+#### Análise de E-commerce com SQL
 
-## 🧠 Visão Geral
+## Visão Geral
 
 Este projeto realiza uma análise completa de um banco de dados de e-commerce utilizando SQL, com foco em vendas, comportamento de clientes e retenção.
 
@@ -8,7 +8,7 @@ O objetivo é transformar dados transacionais em insights de negócio que apoiem
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Analisar um e-commerce fictício com dados mockados para identificar oportunidades de:
 
@@ -19,7 +19,7 @@ Analisar um e-commerce fictício com dados mockados para identificar oportunidad
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🏗️ Estrutura do Banco de Dados
+## Estrutura do Banco de Dados
 
 O projeto utiliza um modelo relacional composto pelas seguintes tabelas:
 
@@ -32,22 +32,22 @@ Essa estrutura segue um modelo normalizado adequado para análises SQL.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📊 Principais Métricas (KPIs)
+## Principais Métricas (KPIs)
 
-### 💰 Métricas de Negócio
+### Métricas de Negócio
 - Receita total
 - Ticket médio por pedido (AOV)
 - Receita por cliente (LTV)
 
-### 👥 Métricas de Clientes
+### Métricas de Clientes
 - Frequência de compras por cliente
 - Distribuição de comportamento de compra
 
-### 🔁 Métricas de Retenção
+### Métricas de Retenção
 - Taxa de churn (clientes inativos há 60 dias ou mais)
 - Análise de cohort (retenção por mês de aquisição)
 
-### 📦 Métricas de Produto
+### Métricas de Produto
 - Receita por produto
 - Produtos com melhor performance
 
